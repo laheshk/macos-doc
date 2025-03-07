@@ -1,2 +1,2 @@
 # macos-doc
-Repository created by Bolt to GitHub extension
+A macos Doc inspired interaction prototype.
