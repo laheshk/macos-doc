@@ -1,2 +1,2 @@
-# macos-doc
-A macos Doc inspired interaction prototype.
+# macOSs-doc
+A macOS Doc inspired interaction prototype.
